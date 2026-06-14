@@ -1,4 +1,4 @@
-# Lab5: Control de Fuerzas
+# Lab 5: Force Control
 
 Repositorio que contiene la implementación en **SIMULINK** de un esquema de control de fuerza con lazo interno de posición y velocidad para un manipulador RR en contacto con un entorno elástico.
 
