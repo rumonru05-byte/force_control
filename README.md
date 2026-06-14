@@ -1,7 +1,8 @@
 # Lab5: Control de Fuerzas
 
 Repositorio que contiene la implementación en **SIMULINK** de un esquema de control de fuerza con lazo interno de posición y velocidad para un manipulador RR en contacto con un entorno elástico.
-**_Nota:_** La documentación técnica, el análisis detallado de los resultados, las gráficas obtenidas y la respuesta a las cuestiones planteadas en el guión se detallan en la **[Wiki de este repositorio](https://github.com/rumonru05-byte/force_control/wiki)**.
+
+> **_Nota:_** La documentación técnica, el análisis detallado de los resultados, las gráficas obtenidas y la respuesta a las cuestiones planteadas en el guión se detallan en la **[Wiki de este repositorio](https://github.com/rumonru05-byte/force_control/wiki)**.
 
 ---
 
