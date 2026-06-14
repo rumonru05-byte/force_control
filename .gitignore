@@ -1,0 +1,15 @@
+# Archivos temporales de MATLAB
+*.asv
+*.m~
+*.bak
+
+# Archivos de Simulink y cachés
+*.slxc
+*.slxp
+*.mex*
+slprj/
+*.mat
+
+# Archivos generados automáticamente por el sistema
+.DS_Store
+Thumbs.db
