@@ -15,7 +15,7 @@ Repositorio que contiene la implementación en **SIMULINK** de un esquema de con
 ## Cómo clonar y usar este repositorio
 Primero debes clonar el repositorio. Abre tu terminal en la carpeta donde quieras guardar la práctica y ejecuta:
 ```bash
-   git clone [https://github.com/rumonru05-byte/nombre_del_repo_matlab.git](https://github.com/rumonru05-byte/nombre_del_repo_matlab.git)
+   git clone https://github.com/rumonru05-byte/force_control.git
    cd nombre_del_repo_matlab
 ```
 A continuación, sigue estos pasos:
